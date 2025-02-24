@@ -2,7 +2,7 @@ package secao7_outros_topicos_sobre_java;
 
 import java.util.Scanner;
 
-public class Funcaoes {
+public class Funcoes {
 
 	public static void main(String[] args) {
 		
